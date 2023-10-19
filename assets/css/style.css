@@ -861,3 +861,29 @@ footer{
     font-size: 14px;
     text-align: center;
 }
+/*CSS BLOCO 2*/
+
+.section-classe{
+    display:flex;
+}
+
+.section-aboutos--texto{
+    flex:1;
+}
+
+.section-aboutus--texto p{
+    font-size:14px;
+    line-height:25px;
+    text-align: justify;
+}
+
+.section-aboutus--imagem{
+    width:520px;
+    text-align:center;
+}
+
+.section-aboutus--imagem img {
+    width:480px;
+    box-shadow:0px 5px 10px #333;
+
+}
